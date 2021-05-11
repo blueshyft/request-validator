@@ -1,6 +1,6 @@
 {
   "name": "@blueshyftaustralia/request-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "validation for standard blueshyft partner API implementations",
   "main": "index.js",
   "scripts": {
@@ -18,13 +18,9 @@
     "url": "https://github.com/blueshyft/request-validator/issues"
   },
   "homepage": "https://github.com/blueshyft/request-validator#readme",
-  "devDependencies": {
-    "eslint": "^3.12.1",
-    "eslint-config-keystone": "^3.0.0"
-  },
   "dependencies": {
-    "chalk": "^1.1.3",
-    "commander": "^2.19.0",
-    "ed25519-supercop": "^1.2.0"
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "ed25519-supercop": "^2.0.1"
   }
 }
